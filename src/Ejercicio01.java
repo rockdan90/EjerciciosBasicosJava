@@ -1,4 +1,4 @@
-public class Ejercicio1 {
+public class Ejercicio01 {
     // metodo main 
     // funcion publica 
     //public: Es el modificador de acceso del método. Pueden ser public 

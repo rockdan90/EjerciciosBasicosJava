@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio6{
+public class Ejercicio06{
     public static void main(String[] args) {
         System.out.println("Ejercicio 6");
         System.out.println("Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es, también debemos indicarlo.");

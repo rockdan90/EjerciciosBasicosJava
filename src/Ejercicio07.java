@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // import javax.swing.JOptionPane;
 
-public class Ejercicio7 {
+public class Ejercicio07 {
     public static void main(String[] args) {
         System.out.println("Ejercicio 7");
         System.out.println("Lee un número por teclado y muestra por consola, el carácter al que pertenece en la tabla ASCII. Por ejemplo: si introduzco un 97, me muestre una a.");
